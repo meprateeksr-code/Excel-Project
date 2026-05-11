@@ -1,1 +1,1 @@
-# Excel-Project
+The project helps businesses make data-driven decisions by providing a clear understanding of sales performance and customer trends. It improves reporting efficiency and supports strategic planning for future growth.
